@@ -1,4 +1,8 @@
-<h1 align="center"> I'm Mohammad Adil - a AI & ML Engineer And Data Scientist 👨‍💻<h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=I'm%20Mohammad%20Adil&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<h1 align="center">AI & ML Engineer And Data Scientist 👨‍💻<h1>
 </p><p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=500&lines=AI+Engineer+;Machine+Learning+Engineer;Data+Scientist+;Software+Engineer" />
 </p>
