@@ -47,4 +47,6 @@
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
 </p>
 
-GitHub: https://github.com/khanadill
+<p align="center">
+<a href="https://github.com/khanadill">GitHub</a>
+</p>
