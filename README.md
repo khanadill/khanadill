@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=500&lines=AI+Engineer+;Machine+Learning+Engineer;Data+Scientist+;Software+Engineer" />
 </p>
 
-🧠 My Technical Skills
+My Technical Skills 💻
 
 <table><tr>
 <td><b>Python</b></td>
