@@ -6,7 +6,7 @@
 </p><p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=500&lines=AI+Engineer+;Machine+Learning+Engineer;Data+Scientist+;Software+Engineer" />
 </p>
-
+<p align="center"><img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github" /></p>
 My Technical Skills 💻
 
 <table><tr>
@@ -51,5 +51,8 @@ My Technical Skills 💻
 </td>
 </tr></table>
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanadill&theme=tokyonight" />
+</p>
 
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=khanadill&theme=tokyo-night"/></p>
